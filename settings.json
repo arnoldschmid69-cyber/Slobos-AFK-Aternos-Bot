@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SERVER_-TEMT.aternos.me",
+    "ip": "SERVER_-TEMT.aternos.me:21649",
     "port": 21649,
     "version": "",
     "try-creative": false
